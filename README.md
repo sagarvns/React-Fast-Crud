@@ -15,9 +15,7 @@ ScreenShort
 - 📅 **Track created & updated time**
 - 🌐 **API calls using Axios**
 - 🔗 **SQL Server as backend storage**
-- 🔐 **CORS enabled for frontend-backend communication**
 
----
 
 ## 🛠 Tech Stack
 
