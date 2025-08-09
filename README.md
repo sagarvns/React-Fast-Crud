@@ -2,6 +2,11 @@
 Home Page
 ![Home Page](Frontend/public/3.png)
 
+ScreenShort
+(Frontend/public/1.png)
+(Frontend/public/4.png)
+(Frontend/public/2.png)
+
 🚀 Features
 
 - ✏ **Add new notes**
