@@ -1,6 +1,6 @@
 
 Home Page
-![Home Page](frontend/public/1.png)
+![Home Page](Frontend/public/3.png)
 
 🚀 Features
 
