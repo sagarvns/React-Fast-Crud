@@ -1,12 +1,13 @@
-# React + Vite
+📖 Project Description
+The Notes App is a simple and efficient full-stack web application that allows users to create, update, and delete notes, with data stored securely in a Microsoft SQL Server database.
+It’s built using a React.js frontend for a responsive and interactive user experience, and a FastAPI backend for fast, reliable API handling. The backend uses SQLAlchemy ORM to manage database operations and PyODBC for SQL Server connectivity.
+The app supports real-time note management with Axios for API communication, and CORS is enabled to ensure smooth integration between the frontend and backend during development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is ideal for learning or demonstrating:
 
-Currently, two official plugins are available:
+Full-stack development skills
+REST API creation with FastAPI
+SQL Server integration with Python
+CRUD operations in a modern web app
+React state management and API calls
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
