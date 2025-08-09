@@ -3,9 +3,9 @@ Home Page
 ![Home Page](Frontend/public/3.png)
 
 ScreenShort
-(Frontend/public/1.png)
-(Frontend/public/4.png)
-(Frontend/public/2.png)
+![Page](Frontend/public/1.png)
+![Page](Frontend/public/4.png)
+![Page](Frontend/public/2.png)
 
 🚀 Features
 
@@ -36,4 +36,14 @@ ScreenShort
 **Database:**
 - Microsoft SQL Server (local or remote)
 
-## 📦 Installation & Setup
+
+Backend Setup (FastAPI + SQL Server)
+Create & activate a virtual environment
+
+
+cd backend
+python -m venv venv
+# Windows
+venv\Scripts\activate
+
+pip install fastapi uvicorn sqlalchemy pyodbc pydantic
